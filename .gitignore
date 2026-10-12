@@ -11,3 +11,11 @@
 /scripts/homebrew-blightmud
 /result
 /.direnv
+
+# Asciiverse packaging scratch
+/target-gnu/
+/target-musl/
+/stage/
+/dist/
+/pkg-test/
+/dist-test/
