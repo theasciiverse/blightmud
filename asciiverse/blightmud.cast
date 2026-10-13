@@ -1,4 +1,4 @@
-{"version":3,"term":{"cols":100,"rows":30,"type":"xterm-256color"},"timestamp":1791828703,"idle_time_limit":2.0,"command":"/tmp/rec --no-update-check --connect batmud.bat.org:2022 --tls","env":{"COLORTERM":"truecolor","TERM":"xterm-256color","LANG":"C.UTF-8"}}
+{"version":3,"term":{"cols":100,"rows":30,"type":"xterm-256color"},"timestamp":1791828703,"idle_time_limit":2.0,"env":{"COLORTERM":"truecolor","TERM":"xterm-256color","LANG":"C.UTF-8"}}
 [0.009, "o", "\u001b[?1049h\u001b[2J\u001b[r\u001b[2;27r\u001b[?6l\u001b[1;1H\u001b[2K\u001b[38;5;2m════════════════════════════════════════════════════════════════════════════════════════════════════\u001b[39m\u001b[30;1H\u001b[28;1H\u001b[2K\u001b[30;1H\u001b[29;1H\u001b[2K\u001b[38;5;2m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[39m\u001b[30;1H"]
 [0.000, "o", "\u001b[2;1H\u001b[s"]
 [0.016, "o", "\u001b[1;1H\u001b[2K\u001b[38;5;2m═ batmud.bat.org:2022  ═════════════════════════════════════════════════════════════════════════════\u001b[39m\u001b[30;1H"]
