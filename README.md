@@ -1,3 +1,16 @@
+> **Play it with Asciiverse.** With [av](https://asciiverse.sh), the Asciiverse
+> client:
+>
+> ```
+> av install blightmud
+> av play blightmud
+> ```
+>
+> Or download the archive for your system from this repository's Releases,
+> unpack it and run `./blightmud` (`blightmud.exe` on Windows).
+>
+> The original README follows.
+
 ![Rust](https://github.com/Blightmud/Blightmud/workflows/Test%20&%20Build/badge.svg)
 ![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/blightmud/blightmud/latest?sort=semver)
 ![GitHub issues by-label](https://img.shields.io/github/issues-raw/blightmud/blightmud/bug)

@@ -38,3 +38,9 @@ when libasound2 comes first.
 
 - Windows: upstream has no native Windows support (termion); it runs under WSL.
 - Alpine: a glibc build cannot use Alpine's musl libstdc++.
+
+## Ours
+
+- **How to play it, at the top of README.md.** A short note on installing and
+  starting it with av, or from a release archive; the original text follows
+  unchanged.
