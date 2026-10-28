@@ -6,9 +6,6 @@
 > av play blightmud
 > ```
 >
-> Or download the archive for your system from this repository's Releases,
-> unpack it and run `./blightmud`.
->
 > The original README follows.
 
 ![Rust](https://github.com/Blightmud/Blightmud/workflows/Test%20&%20Build/badge.svg)
